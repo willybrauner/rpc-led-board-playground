@@ -1,0 +1,11 @@
+{
+  "name": "common",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "common.ts",
+  "types": "common.ts",
+  "exports": {
+    ".": "./common.ts"
+  }
+}
